@@ -104,6 +104,13 @@ ul li {
     color: Black;
 }
 
+.graphic-wrapper {
+  margin-top: 2rem;
+  border: 1px solid #ddd;
+  padding: 12px;
+  background: white;
+}
+
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
 *********************************************************************/
@@ -134,13 +141,6 @@ ul li {
         padding: 10px;
         /* width: 500px; */
     }
-}
-
-.graphic-wrapper {
-  margin-top: 2rem;
-  border: 1px solid #ddd;
-  padding: 12px;
-  background: white;
 }
 
 /*********************************************************************
